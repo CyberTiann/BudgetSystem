@@ -92,79 +92,12 @@ JET_SIDE_MENU_ITEMS = [
             {'name': 'core.budget'},
             {'name': 'core.funds'},
             {'name': 'core.mooe'},
-
         ]
     },
     {
-        'label': 'HR Budget',
+        'label': 'Budget',
         'items': [
-            {'name': 'HR.annual'},
-            {'name': 'HR.quarter'},
-
-        ]
-    },
-       {
-        'label': 'Admin Budget',
-        'items': [
-            {'name': 'Admin.annual'},
-            {'name': 'Admin.quarter'},
-
-        ]
-    },
-    {
-        'label': 'AMG Budget',
-        'items': [
-            {'name': 'AMG.annual'},
-            {'name': 'AMG.quarter'},
-
-        ]
-    },
-    {
-        'label': 'BDG Budget',
-        'items': [
-            {'name': 'BDG.annual'},
-            {'name': 'BDG.quarter'},
-
-        ]
-    },
-    {
-        'label': 'CCG Budget',
-        'items': [
-            {'name': 'CCG.annual'},
-            {'name': 'CCG.quarter'},
-
-        ]
-    },
-    {
-        'label': 'CorPlan Budget',
-        'items': [
-            {'name': 'CorPlan.annual'},
-            {'name': 'CorPlan.quarter'},
-
-        ]
-    },
-    {
-        'label': 'IAD Budget',
-        'items': [
-            {'name': 'IAD.annual'},
-            {'name': 'IAD.quarter'},
-
-        ]
-    },
-    {
-        'label': 'Legal Budget',
-        'items': [
-            {'name': 'Legal.annual'},
-            {'name': 'Legal.quarter'},
-
-        ]
-    },
-    {
-        'label': 'OGM Budget',
-        'items': [
-            {'name': 'OGM.annual'},
-            {'name': 'OGM.quarter'},
-
+            {'name': 'core.budget_category'},
         ]
     },
     {
